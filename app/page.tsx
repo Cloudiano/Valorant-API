@@ -6,14 +6,14 @@ export default function Home() {
       <div>
         <h1 className="text-3xl font-bold">PLS Valorant</h1>
         <hr className="my-4" />
-        <p>Valorant Informations - Agents, Guns, Skins and more</p>
+        <p>Valorant - Informations</p>
       </div>
 
       <Image
-        src="https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/fullportrait.png"
-        alt="Valorant Reyna"
+        src="https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/fullportrait.png"
+        alt="Valorant Clove"
         className="animate-pulse"
-        width={60}
+        width={50}
         height={50}
         priority
         quality={100}
