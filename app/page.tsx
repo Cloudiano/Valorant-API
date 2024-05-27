@@ -13,7 +13,7 @@ export default function Home() {
         src="https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/fullportrait.png"
         alt="Valorant Reyna"
         className="animate-pulse"
-        width={50}
+        width={60}
         height={50}
         priority
         quality={100}

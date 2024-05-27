@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Polus - Valorant",
-  description: "Polus - Valorant, Agents, weapons and more",
+  description: "Polus - Valorant, Agents, Weapons, Skins and more",
 };
 
 export default function RootLayout({
