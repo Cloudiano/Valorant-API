@@ -6,7 +6,7 @@ export default function Home() {
       <div>
         <h1 className="text-3xl font-bold">PLS Valorant</h1>
         <hr className="my-4" />
-        <p>Valorant Agents</p>
+        <p>Valorant Informations - Agents, Guns, Skins and more</p>
       </div>
 
       <Image
