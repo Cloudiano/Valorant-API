@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 export default function Menu() {
   return (
-    <menu className="absolute top-0 left-0 right-0 z-10 from-transparent  p-6 text-lg bg-[#33366F]">
+    <menu className="absolute top-0 left-0 right-0 z-10 from-transparent  p-6 text-lg bg-[#5450B5]">
       <div className="flex  gap-3">
         <Link
           href="/"
