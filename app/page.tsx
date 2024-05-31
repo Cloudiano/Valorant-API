@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div>
-        <h1 className="text-3xl font-bold">PLS Valorant</h1>
+        <h1 className="text-3xl font-bold">CLD Valorant</h1>
         <hr className="my-4" />
         <p>Valorant - Informations</p>
       </div>
@@ -25,11 +25,11 @@ export default function Home() {
       />
       <div className="flex gap-3">
         <Link
-          href="https://github.com/Polusv7"
+          href="https://github.com/Cloudiano"
           target="_blank"
           className="underline hover:text-red-500 transition-all"
         >
-          Polus
+          Cloud
         </Link>
         <Link
           href="https://valorant-api.com"
